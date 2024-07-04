@@ -2,6 +2,12 @@
 
 ## A Design of the Robot's lower body parts - Leg Joints (hips, knees, ankles)
 
+### Program:
+Tinkercad
+
+### Duration:
+1 day
+
 ### Link
 [Tinkercad Leg Joints Design](https://www.tinkercad.com/things/c5PxzMiLdtS-robots-leg-joints)
 
